@@ -60,6 +60,10 @@ div.blue{
     color: #C4C4C4;
 }
 
+.blue p{
+    color: #C4C4C4;
+}
+
 div.yellow {
     background-color: #FFFF00;
     text-align: right;
